@@ -1,5 +1,5 @@
 import React from "react";
-import Card from "../Ui/Card";
+import Card from "../../../Ui/Card";
 
 const AvailablePlayers = ({ players }) => {
   return (
