@@ -6,7 +6,7 @@
     "rating": 9.8,
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm medium",
-    "price": 500,
+    "price": 50000,
     "playerImg": "https://i.ibb.co.com/nM3RWQCB/hfv4r54-virat-kohli-century-afp-625x300-04-December-25.webp"
   },
   {
@@ -16,7 +16,7 @@
     "rating": 9.5,
     "battingStyle": "Left-hand bat",
     "bowlingStyle": "Slow left-arm orthodox",
-    "price": 2200,
+    "price": 2000,
     "playerImg": "https://i.ibb.co.com/nN4jrwKL/sh.jpg"
   },
   {
@@ -26,7 +26,7 @@
     "rating": 9.7,
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm medium",
-    "price": 2000,
+    "price": 2500,
     "playerImg": "https://i.ibb.co.com/1ft0B5t9/md6rmb9uabbbzvdwfvw8.avif"
   },
   {
@@ -56,7 +56,7 @@
     "rating": 9.6,
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm offbreak",
-    "price": 1800,
+    "price": 3000,
     "playerImg": "https://i.ibb.co.com/zHGts9qY/Rohit-Sharma.avif"
   },
   {
@@ -66,7 +66,7 @@
     "rating": 9.2,
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm offbreak",
-    "price": 1100000,
+    "price": 2700,
     "playerImg": "https://i.ibb.co.com/mVMpNvHp/Kane-Williamson-quits-captaincy-declines-New-Zealand-Cricket-central-contract.jpg"
   },
   {
@@ -76,7 +76,7 @@
     "rating": 9.6,
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm legbreak",
-    "price": 1300000,
+    "price": 1800,
     "playerImg": "https://i.ibb.co.com/ZzXZYHcr/Whats-App-Image-2024-01-27-at-02-45-38.webp"
   },
   {
@@ -86,7 +86,7 @@
     "rating": 9.4,
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "N/A",
-    "price": 1250000,
+    "price": 2500,
     "playerImg": "https://i.ibb.co.com/kTgdjj3/Jos-Buttler.webp"
   }
 ]
