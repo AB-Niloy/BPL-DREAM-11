@@ -39,7 +39,7 @@ const Navbar = ({ coin }) => {
         {/* Coins */}
         <div className="flex items-center gap-2 font-bold text-sm md:text-xl">
           
-          <span className="border border-gray-300 rounded-xl shadow-md px-2 py-3 flex items-center gap-2"><img src={dollarImg} alt="" className="w-5 md:w-6 " /> {coin} Coins</span>
+          <span className="border border-[#E7FE29] bg-[#E7FE29] rounded-xl shadow-md px-2 py-3 flex items-center gap-2"><img src={dollarImg} alt="" className="w-5 md:w-6 " /> {coin} Coins</span>
         </div>
 
         {/* Mobile Menu Button */}

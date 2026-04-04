@@ -16,7 +16,7 @@ const Players = ({ playersPromise, setCoin, coin }) => {
         {selectedType === "available" ? (
           <h2 className="font-semibold md:font-bold text-3xl">Available Players</h2>
         ) : (
-          <h2 className="font-semibold md:font-bold text-3xl">Selected Players {selectedPlayers.length}/{players.length}</h2>
+          <h2 className="font-semibold md:font-bold text-3xl">Selected Players ({selectedPlayers.length}/{players.length})</h2>
         )}
         <div className="flex px-2 mx-4">
           <button

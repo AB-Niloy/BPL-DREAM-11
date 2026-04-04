@@ -17,7 +17,7 @@ const Banner = () => {
     //     </button>
     //   </div>
     // </div>
-    <div className="container mx-auto relative">
+    <div className="container mx-auto relative bg-[#06091A] rounded-2xl">
       {/* Background */}
       <img
         src="/src/assets/bg-shadow.png"
@@ -35,19 +35,21 @@ const Banner = () => {
         />
 
         {/* Title */}
-        <h1 className="text-xl sm:text-2xl md:text-4xl font-bold leading-tight">
+        <h1 className="text-white text-xl sm:text-2xl md:text-4xl font-bold leading-tight">
           Assemble Your Ultimate Dream 11 Cricket Team
         </h1>
 
         {/* Subtitle */}
-        <p className="text-sm sm:text-base md:text-2xl">
+        <p className="text-[#f9fffffa] text-sm sm:text-base md:text-2xl">
           Beyond Boundaries Beyond Limits
         </p>
 
         {/* Button */}
-        <button className="btn px-4 py-2 md:px-6 md:py-2 bg-[#E7FE29] rounded-lg text-sm md:text-base">
-          Claim Free Credit
-        </button>
+        <div className="border border-[#E7FE29] p-2 rounded-2xl">
+          <button className="btn px-4 py-2 md:px-6 md:py-2 bg-[#E7FE29] rounded-lg text-sm md:text-base">
+            Claim Free Credit
+          </button>
+        </div>
       </div>
     </div>
   );

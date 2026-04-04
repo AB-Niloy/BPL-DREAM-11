@@ -23,9 +23,9 @@ const SelectedPlayers = ({ selectedPlayers, setSelectedPlayers, coin, setCoin })
         return (
           <div key={ind} className="flex items-center gap-6 justify-between p-10 rounded-2xl border ">
             <div className="flex items-center gap-6">
-                <img src={player.playerImg} alt={player.playerName} className="h-[75px] w-auto rounded-md"/>
+                <img src={player.playerImg} alt={player.playerName} className="h-[75px] w-[75px] md:w-auto rounded-md"/>
                 <div>
-                    <h2 className="flex items-center gap-2 font-bold text-2xl"><FaUser></FaUser> {player.playerName}</h2>
+                    <h2 className="flex items-center gap-2 font-bold md:text-2xl"><FaUser></FaUser> {player.playerName}</h2>
                     <p className="mt-1">{player.playerType}</p>
                 </div>
             </div>
