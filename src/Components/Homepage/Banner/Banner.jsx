@@ -20,7 +20,7 @@ const Banner = () => {
     <div className="container mx-auto relative bg-[#06091A] rounded-2xl">
       {/* Background */}
       <img
-        src="/src/assets/bg-shadow.png"
+        src="/bg-shadow.png"
         alt=""
         className="w-full h-[300px] md:h-[500px] object-cover rounded-xl"
       />
@@ -29,7 +29,7 @@ const Banner = () => {
       <div className="absolute inset-0 flex flex-col justify-center items-center text-center space-y-3 md:space-y-5 px-2">
         {/* Image */}
         <img
-          src="/src/assets/banner-main.png"
+          src="/banner-main.png"
           alt=""
           className="w-40 md:w-64"
         />

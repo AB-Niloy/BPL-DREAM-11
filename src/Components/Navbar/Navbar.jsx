@@ -1,5 +1,4 @@
 import React from "react";
-import dollarImg from "../../assets/dollar 1.png";
 
 const Navbar = ({ coin }) => {
   return (
@@ -23,7 +22,7 @@ const Navbar = ({ coin }) => {
     <div className="navbar bg-base-100 shadow-sm container mx-auto mt-6 mb-5 px-4">
       {/* Left: Logo */}
       <div className="flex-1">
-        <img src="/src/assets/logo.png" alt="logo" className="w-28 md:w-32" />
+        <img src="/logo.png" alt="logo" className="w-28 md:w-32" />
       </div>
 
       {/* Right */}
@@ -39,7 +38,7 @@ const Navbar = ({ coin }) => {
         {/* Coins */}
         <div className="flex items-center gap-2 font-bold text-sm md:text-xl">
           
-          <span className="border border-[#E7FE29] bg-[#E7FE29] rounded-xl shadow-md px-2 py-3 flex items-center gap-2"><img src={dollarImg} alt="" className="w-5 md:w-6 " /> {coin} Coins</span>
+          <span className="border border-[#E7FE29] bg-[#E7FE29] rounded-xl shadow-md px-2 py-3 flex items-center gap-2"><img src='/dollar 1.png' alt="" className="w-5 md:w-6 " /> {coin} Coins</span>
         </div>
 
         {/* Mobile Menu Button */}

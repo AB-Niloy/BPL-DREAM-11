@@ -7,7 +7,7 @@ const Footer = () => {
         <div className="">
       <div className="bg-[#06091A] min-h-[60vh] mt-10">
         <div className="flex justify-center items-center pt-40">
-          <img src="/src/assets/logo-footer.png" alt="" />
+          <img src="/logo-footer.png" alt="" />
         </div>
         {/* <div className="text-white grid grid-cols-3 justify-items-center mt-10"> */}
         <div className="text-white grid grid-cols-1 md:grid-cols-3 gap-12 mt-10 text-center md:text-left px-6 justify-items-center">
