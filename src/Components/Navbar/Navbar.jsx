@@ -67,6 +67,7 @@ const Navbar = ({ coin }) => {
         </div>
       </div>
     </div>
+    // <div></div>
   );
 };
 
